@@ -1,0 +1,416 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a46976cfa5fbd90b5a75bf14888e4c7c3"><param name="Name" value="AddBackupJob(string name, string sourceDirectory, string targetDirectory, string type)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_job.html#a1bb54da57bd7d09f850fde1db6e9fbba"><param name="Name" value="BackupJob(string name, string sourceDirectory, string targetDirectory, BackupType type)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#adb8a1220092be3a8855e52c9f7507ecd"><param name="Name" value="BackupLogEntry(string backupName, string backupType, string sourcePath, string targetPath, long fileSize, long transferTimeMs)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#a91a890e03ef46ac4d7b9ba40b929a7dd"><param name="Name" value="BackupName"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#a91a890e03ef46ac4d7b9ba40b929a7dd"><param name="Name" value="ControlZ::Models::BackupLogEntry"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#aca3dfaeda9b45794e0d87e46f2aa9d05"><param name="Name" value="BackupName"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#aca3dfaeda9b45794e0d87e46f2aa9d05"><param name="Name" value="ControlZ::Models::BackupState"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_observers_1_1_backup_observer.html#a28730ab3c5832baf75631c05b3d4d35b"><param name="Name" value="BackupObserver(LoggerService loggerService)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#afb7c0cbc055b497cab05a2c57724fa0b"><param name="Name" value="BackupState(string backupName, string state, int totalFilesToCopy, long totalFilesSized, int numberOfFilesLeftToDo, long sizeOfFilesLeftToDo, string currentSourceFilePath, string currentTargetFilePath, double progression)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_models.html#ab4671202791876cb862b8c31f1bf486f"><param name="Name" value="BackupType"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_models.html#ab4671202791876cb862b8c31f1bf486f"><param name="Name" value="ControlZ::Models"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#a67df875232dd14edf8674e6926e07eb8"><param name="Name" value="BackupType"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#a67df875232dd14edf8674e6926e07eb8"><param name="Name" value="ControlZ::Models::BackupLogEntry"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a2f37f6dcfa71b2d16c7dfeb2aa1eed77"><param name="Name" value="BackupViewModel(ResourceManager resourceManager, BackupObserver observer)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html#a0c802c44ab59c5a79658772e61336acf"><param name="Name" value="CheckBackupChoice(out int selectedId, int countBackupJob)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html#a47fe87fd55f408652dc6cd340a42e860"><param name="Name" value="CheckError(string messageKey)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a7ad495d0f71822063a3e601ecc3a8b50"><param name="Name" value="CheckNumberBackup()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html#a5a3c6f074442181b86ead3326a04af70"><param name="Name" value="ConsoleMenu(ResourceManager resourceManager, BackupObserver observer)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z.html"><param name="Name" value="ControlZ"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_configurations.html"><param name="Name" value="ControlZ::Configurations"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_configurations_1_1_configuration_manager.html"><param name="Name" value="ControlZ::Configurations::ConfigurationManager"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_configurations_1_1_configuration_manager.html"><param name="Name" value="ControlZ::Configurations::ConfigurationManager"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_configurations_1_1_configuration_manager.html#ad71875dfe8d89893fd26936dba899f18"><param name="Name" value="CurrentCulture"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_configurations_1_1_configuration_manager.html"><param name="Name" value="ControlZ::Configurations::ConfigurationManager"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_configurations_1_1_configuration_manager.html#a34154f8bff96cf030df95e6603b01da9"><param name="Name" value="Instance"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_factories.html"><param name="Name" value="ControlZ::Factories"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_models.html"><param name="Name" value="ControlZ::Models"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_job.html"><param name="Name" value="ControlZ::Models::BackupJob"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_job.html"><param name="Name" value="ControlZ::Models::BackupJob"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_job.html#a1bb54da57bd7d09f850fde1db6e9fbba"><param name="Name" value="BackupJob(string name, string sourceDirectory, string targetDirectory, BackupType type)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_job.html"><param name="Name" value="ControlZ::Models::BackupJob"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_job.html#aa5a0856772b449fefac5eff508eb90b5"><param name="Name" value="Name"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_job.html"><param name="Name" value="ControlZ::Models::BackupJob"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_job.html#af87ba6b35c86890c5835c99d19893eed"><param name="Name" value="SourceDirectory"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_job.html"><param name="Name" value="ControlZ::Models::BackupJob"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_job.html#aa9f47fad925f408a54ada91d0bdec7bd"><param name="Name" value="TargetDirectory"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_job.html"><param name="Name" value="ControlZ::Models::BackupJob"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_job.html#aecff15cb6ca01d1e9c780398b3e6f934"><param name="Name" value="Type"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html"><param name="Name" value="ControlZ::Models::BackupLogEntry"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html"><param name="Name" value="ControlZ::Models::BackupLogEntry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#adb8a1220092be3a8855e52c9f7507ecd"><param name="Name" value="BackupLogEntry(string backupName, string backupType, string sourcePath, string targetPath, long fileSize, long transferTimeMs)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html"><param name="Name" value="ControlZ::Models::BackupLogEntry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#a91a890e03ef46ac4d7b9ba40b929a7dd"><param name="Name" value="BackupName"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html"><param name="Name" value="ControlZ::Models::BackupLogEntry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#a67df875232dd14edf8674e6926e07eb8"><param name="Name" value="BackupType"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html"><param name="Name" value="ControlZ::Models::BackupLogEntry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#a1c69ae2a033d1082486d05d023fd27c3"><param name="Name" value="FileSize"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html"><param name="Name" value="ControlZ::Models::BackupLogEntry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#aedcf301a6f10a5b37cdfa71e054c71f5"><param name="Name" value="SourcePath"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html"><param name="Name" value="ControlZ::Models::BackupLogEntry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#a2236c29b1d39aaaf5fb02deaf90f4329"><param name="Name" value="TargetPath"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html"><param name="Name" value="ControlZ::Models::BackupLogEntry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#a3b1c540a6798dffdc9f4a4ade7768545"><param name="Name" value="Timestamp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html"><param name="Name" value="ControlZ::Models::BackupLogEntry"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#a397db902a5a48472f4b1c101ba99fa44"><param name="Name" value="TransferTimeMs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html"><param name="Name" value="ControlZ::Models::BackupState"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html"><param name="Name" value="ControlZ::Models::BackupState"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#aca3dfaeda9b45794e0d87e46f2aa9d05"><param name="Name" value="BackupName"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html"><param name="Name" value="ControlZ::Models::BackupState"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#afb7c0cbc055b497cab05a2c57724fa0b"><param name="Name" value="BackupState(string backupName, string state, int totalFilesToCopy, long totalFilesSized, int numberOfFilesLeftToDo, long sizeOfFilesLeftToDo, string currentSourceFilePath, string currentTargetFilePath, double progression)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html"><param name="Name" value="ControlZ::Models::BackupState"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#a2e9d95d279c4e9cdc327cba5fbd9e678"><param name="Name" value="CurrentSourceFilePath"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html"><param name="Name" value="ControlZ::Models::BackupState"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#ae5eb8357d4775a94aa9268f78a9ff90a"><param name="Name" value="CurrentTargetFilePath"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html"><param name="Name" value="ControlZ::Models::BackupState"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#adf16a1845c6f98413c78110949d595ae"><param name="Name" value="NumberOfFilesLeftToDo"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html"><param name="Name" value="ControlZ::Models::BackupState"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#a888abf859e7ec0a3a8313d98ad096f46"><param name="Name" value="Progression"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html"><param name="Name" value="ControlZ::Models::BackupState"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#ad557d3b0f81f23577ae9881b6d677aec"><param name="Name" value="SizeOfFilesLeftToDo"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html"><param name="Name" value="ControlZ::Models::BackupState"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#ab67b6a7b628f826ea69f30bcc7480b4a"><param name="Name" value="State"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html"><param name="Name" value="ControlZ::Models::BackupState"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#a0ea6b66f36d04ee0ef72622bf6faf613"><param name="Name" value="Timestamp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html"><param name="Name" value="ControlZ::Models::BackupState"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#aef1b6ad96c9629389d9bfd843e1db3ed"><param name="Name" value="TotalFilesSized"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html"><param name="Name" value="ControlZ::Models::BackupState"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#a341ea67b844edb5c69f5915199b01e6c"><param name="Name" value="TotalFilesToCopy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_models.html"><param name="Name" value="ControlZ::Models"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_models.html#ab4671202791876cb862b8c31f1bf486f"><param name="Name" value="BackupType"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_models.html"><param name="Name" value="ControlZ::Models"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_models.html#ab4671202791876cb862b8c31f1bf486fa1c2eaa5d56340808f2a94368501e5496"><param name="Name" value="Differential"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_models.html"><param name="Name" value="ControlZ::Models"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_models.html#ab4671202791876cb862b8c31f1bf486fabbd47109890259c0127154db1af26c75"><param name="Name" value="Full"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_observers.html"><param name="Name" value="ControlZ::Observers"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_observers_1_1_backup_observer.html"><param name="Name" value="ControlZ::Observers::BackupObserver"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_observers_1_1_backup_observer.html"><param name="Name" value="ControlZ::Observers::BackupObserver"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_observers_1_1_backup_observer.html#a28730ab3c5832baf75631c05b3d4d35b"><param name="Name" value="BackupObserver(LoggerService loggerService)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_observers_1_1_backup_observer.html"><param name="Name" value="ControlZ::Observers::BackupObserver"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_observers_1_1_backup_observer.html#a8a8b2e5bb5369af4285feacd55f9c5de"><param name="Name" value="Update(BackupJob job, object logEntry)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_control_z_1_1_observers_1_1_i_backup_observer.html"><param name="Name" value="ControlZ::Observers::IBackupObserver"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_control_z_1_1_observers_1_1_i_backup_observer.html"><param name="Name" value="ControlZ::Observers::IBackupObserver"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_control_z_1_1_observers_1_1_i_backup_observer.html#a12e53be18ec643c91fbcdbdbaaa1d78f"><param name="Name" value="Update(BackupJob job, object message)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_repositories.html"><param name="Name" value="ControlZ::Repositories"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_repositories_1_1_backup_repository.html"><param name="Name" value="ControlZ::Repositories::BackupRepository"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_repositories_1_1_backup_repository.html"><param name="Name" value="ControlZ::Repositories::BackupRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_repositories_1_1_backup_repository.html#a30177968216edeb373188c8e7570db89"><param name="Name" value="LoadBackupJobs()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_repositories_1_1_backup_repository.html"><param name="Name" value="ControlZ::Repositories::BackupRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_repositories_1_1_backup_repository.html#a7f9fe554d55773b467a752e1d1d62c2e"><param name="Name" value="LoadBackupStates()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_repositories_1_1_backup_repository.html"><param name="Name" value="ControlZ::Repositories::BackupRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_repositories_1_1_backup_repository.html#ad0fcdc57e7af1bb40196266a61847660"><param name="Name" value="SaveBackupJobs(List&lt; BackupJob &gt; jobs)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_repositories_1_1_backup_repository.html"><param name="Name" value="ControlZ::Repositories::BackupRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_repositories_1_1_backup_repository.html#a0104bd8851bced1b37906fb53d29245d"><param name="Name" value="SaveBackupState(List&lt; BackupState &gt; states)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_repositories_1_1_backup_repository.html"><param name="Name" value="ControlZ::Repositories::BackupRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_repositories_1_1_backup_repository.html#a34683460a3bbc0e13266e6ed72c4cbd3"><param name="Name" value="UpdateBackupState(BackupState updatedState, int updatedIndexState)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_services.html"><param name="Name" value="ControlZ::Services"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_services_1_1_logger_service.html"><param name="Name" value="ControlZ::Services::LoggerService"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_services_1_1_logger_service.html"><param name="Name" value="ControlZ::Services::LoggerService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_services_1_1_logger_service.html#a90e558d7ed55f00ea174aaa4197b32d8"><param name="Name" value="Log(object logEntry)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_services_1_1_logger_service.html"><param name="Name" value="ControlZ::Services::LoggerService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_services_1_1_logger_service.html#a97477e3b5dcc4fa70aa117a9e04bde12"><param name="Name" value="LoggerService()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_strategies.html"><param name="Name" value="ControlZ::Strategies"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_differential_backup_strategy.html"><param name="Name" value="ControlZ::Strategies::DifferentialBackupStrategy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_differential_backup_strategy.html"><param name="Name" value="ControlZ::Strategies::DifferentialBackupStrategy"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_differential_backup_strategy.html#a48ac9dd131a22a189e80d1d675a92c4f"><param name="Name" value="DifferentialBackupStrategy(ResourceManager resourceManager, BackupObserver observer)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_differential_backup_strategy.html"><param name="Name" value="ControlZ::Strategies::DifferentialBackupStrategy"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_differential_backup_strategy.html#aadb14fcad963ddbe7357c1dd2e1cf07b"><param name="Name" value="Execute(BackupJob job, int indexState, BackupState state)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_full_backup_strategy.html"><param name="Name" value="ControlZ::Strategies::FullBackupStrategy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_full_backup_strategy.html"><param name="Name" value="ControlZ::Strategies::FullBackupStrategy"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_full_backup_strategy.html#a3192caa5cb1b15d2e996c2cc97c58189"><param name="Name" value="Execute(BackupJob job, int indexState, BackupState state)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_full_backup_strategy.html"><param name="Name" value="ControlZ::Strategies::FullBackupStrategy"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_full_backup_strategy.html#a790af1b9c745a958629b7296e265b434"><param name="Name" value="FullBackupStrategy(ResourceManager resourceManager, BackupObserver observer)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_full_backup_strategy.html"><param name="Name" value="ControlZ::Strategies::FullBackupStrategy"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_full_backup_strategy.html#a0f12b7c901c9eb0828409966333f68d8"><param name="Name" value="UpdateProgressBar(double percentage, int cursorTop)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_control_z_1_1_strategies_1_1_i_backup_strategy.html"><param name="Name" value="ControlZ::Strategies::IBackupStrategy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_control_z_1_1_strategies_1_1_i_backup_strategy.html"><param name="Name" value="ControlZ::Strategies::IBackupStrategy"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_control_z_1_1_strategies_1_1_i_backup_strategy.html#ae5a14b789e2aa2dad59b4776b96455d0"><param name="Name" value="Execute(BackupJob job, int indexState, BackupState state)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_tests.html"><param name="Name" value="ControlZ::Tests"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_tests_1_1_unit_test1.html"><param name="Name" value="ControlZ::Tests::UnitTest1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_view_models.html"><param name="Name" value="ControlZ::ViewModels"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html"><param name="Name" value="ControlZ::ViewModels::BackupViewModel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html"><param name="Name" value="ControlZ::ViewModels::BackupViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a46976cfa5fbd90b5a75bf14888e4c7c3"><param name="Name" value="AddBackupJob(string name, string sourceDirectory, string targetDirectory, string type)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html"><param name="Name" value="ControlZ::ViewModels::BackupViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a2f37f6dcfa71b2d16c7dfeb2aa1eed77"><param name="Name" value="BackupViewModel(ResourceManager resourceManager, BackupObserver observer)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html"><param name="Name" value="ControlZ::ViewModels::BackupViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a7ad495d0f71822063a3e601ecc3a8b50"><param name="Name" value="CheckNumberBackup()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html"><param name="Name" value="ControlZ::ViewModels::BackupViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a9c90697e362178c26301c0325b1011c7"><param name="Name" value="DeleteBackupJob(int selectedId)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html"><param name="Name" value="ControlZ::ViewModels::BackupViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#aeaa746f30d24939c4ee118326fc6d706"><param name="Name" value="ExecuteBackupJob(int selectedId)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html"><param name="Name" value="ControlZ::ViewModels::BackupViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a35a65d2188381ffd6871d93ca32ba01c"><param name="Name" value="ExecuteMultipleBackupJobs(List&lt; int &gt; selectedIndices)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html"><param name="Name" value="ControlZ::ViewModels::BackupViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a35cc2dbada8597e6f2054f3a1341f1f0"><param name="Name" value="IsBackupJobExisting(out int countBackupJob)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html"><param name="Name" value="ControlZ::ViewModels::BackupViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a1c5ed5881c2dbe26948211b44b861658"><param name="Name" value="IsBackupJobNameValid(string name)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html"><param name="Name" value="ControlZ::ViewModels::BackupViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#ae8493c884adfa560a55c979360dd25f2"><param name="Name" value="IsBackupTypeValid(string type)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html"><param name="Name" value="ControlZ::ViewModels::BackupViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a1ee110618f2b10c291ce63d73af500ee"><param name="Name" value="IsEnoughtBackupJobsExisting(out int countBackupJob, int minJob)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html"><param name="Name" value="ControlZ::ViewModels::BackupViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#afc1eeb4903b4084b0bb4f293b937c5d7"><param name="Name" value="IsMaxBackupJobsReached()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html"><param name="Name" value="ControlZ::ViewModels::BackupViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a3ae0aae9209242edf2a3ae86da67591c"><param name="Name" value="IsSourceDirectoryExisting(string sourceDirectory)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html"><param name="Name" value="ControlZ::ViewModels::BackupViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#aecf252fea9091a4b92a63e9b942d6a5b"><param name="Name" value="IsTargetDirectoryExisting(string targetDirectory)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html"><param name="Name" value="ControlZ::ViewModels::BackupViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a17385861cd7bf6fcb7eaeb216a5556d4"><param name="Name" value="ListBackupJobs()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html"><param name="Name" value="ControlZ::ViewModels::BackupViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a235b344bc5533f67b760e95d36404a12"><param name="Name" value="ModifyBackupJob(int id, string newName, string newSourceDirectory, string newTargetDirectory, string newType)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html"><param name="Name" value="ControlZ::ViewModels::BackupViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a71185bd9946384b75fa7a50a8371cc71"><param name="Name" value="ParseInput(string input, int maxJobs)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html"><param name="Name" value="ControlZ::ViewModels::BackupViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#ae2167062d2f7ddd8320d91e6d5dcba7a"><param name="Name" value="string"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_views.html"><param name="Name" value="ControlZ::Views"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html"><param name="Name" value="ControlZ::Views::ConsoleMenu"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html"><param name="Name" value="ControlZ::Views::ConsoleMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html#a0c802c44ab59c5a79658772e61336acf"><param name="Name" value="CheckBackupChoice(out int selectedId, int countBackupJob)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html"><param name="Name" value="ControlZ::Views::ConsoleMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html#a47fe87fd55f408652dc6cd340a42e860"><param name="Name" value="CheckError(string messageKey)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html"><param name="Name" value="ControlZ::Views::ConsoleMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html#a5a3c6f074442181b86ead3326a04af70"><param name="Name" value="ConsoleMenu(ResourceManager resourceManager, BackupObserver observer)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html"><param name="Name" value="ControlZ::Views::ConsoleMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html#af003b762709b4e0547721441e3dd317d"><param name="Name" value="DisplayAllBackupJobs(out List&lt; string &gt; listNameBackupJob)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html"><param name="Name" value="ControlZ::Views::ConsoleMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html#ab73ecb2fd2f8b832c653c8a7b7aca146"><param name="Name" value="DisplayColoredMessage(string color, string key)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html"><param name="Name" value="ControlZ::Views::ConsoleMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html#ae49e1de288747a561fc0909e93b38839"><param name="Name" value="DisplayMenu()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html"><param name="Name" value="ControlZ::Views::ConsoleMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html#ac58d6cf0d6793d91f076b691dfa395cd"><param name="Name" value="ShowLogo()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html"><param name="Name" value="ControlZ::Views::ConsoleMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html#a9c68ad1e345f39e091f740a793a89038"><param name="Name" value="WaitForValidInput(out string userInput, string promptkey, ValidationDelegate validationDelegate)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html"><param name="Name" value="ControlZ::Views::ConsoleMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html#a9c16c43723a78ff20c9709b83ba61703"><param name="Name" value="WaitForValidModification(out string userInput, string promptkey, ValidationDelegate validationDelegate, string actualData)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_configurations_1_1_configuration_manager.html#ad71875dfe8d89893fd26936dba899f18"><param name="Name" value="CurrentCulture"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#a2e9d95d279c4e9cdc327cba5fbd9e678"><param name="Name" value="CurrentSourceFilePath"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#ae5eb8357d4775a94aa9268f78a9ff90a"><param name="Name" value="CurrentTargetFilePath"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a9c90697e362178c26301c0325b1011c7"><param name="Name" value="DeleteBackupJob(int selectedId)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_models.html#ab4671202791876cb862b8c31f1bf486fa1c2eaa5d56340808f2a94368501e5496"><param name="Name" value="Differential"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_differential_backup_strategy.html#a48ac9dd131a22a189e80d1d675a92c4f"><param name="Name" value="DifferentialBackupStrategy(ResourceManager resourceManager, BackupObserver observer)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html#af003b762709b4e0547721441e3dd317d"><param name="Name" value="DisplayAllBackupJobs(out List&lt; string &gt; listNameBackupJob)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html#ab73ecb2fd2f8b832c653c8a7b7aca146"><param name="Name" value="DisplayColoredMessage(string color, string key)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html#ae49e1de288747a561fc0909e93b38839"><param name="Name" value="DisplayMenu()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_differential_backup_strategy.html#aadb14fcad963ddbe7357c1dd2e1cf07b"><param name="Name" value="Execute(BackupJob job, int indexState, BackupState state)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_differential_backup_strategy.html#aadb14fcad963ddbe7357c1dd2e1cf07b"><param name="Name" value="ControlZ::Strategies::DifferentialBackupStrategy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_full_backup_strategy.html#a3192caa5cb1b15d2e996c2cc97c58189"><param name="Name" value="Execute(BackupJob job, int indexState, BackupState state)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_full_backup_strategy.html#a3192caa5cb1b15d2e996c2cc97c58189"><param name="Name" value="ControlZ::Strategies::FullBackupStrategy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_control_z_1_1_strategies_1_1_i_backup_strategy.html#ae5a14b789e2aa2dad59b4776b96455d0"><param name="Name" value="Execute(BackupJob job, int indexState, BackupState state)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_control_z_1_1_strategies_1_1_i_backup_strategy.html#ae5a14b789e2aa2dad59b4776b96455d0"><param name="Name" value="ControlZ::Strategies::IBackupStrategy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#aeaa746f30d24939c4ee118326fc6d706"><param name="Name" value="ExecuteBackupJob(int selectedId)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a35a65d2188381ffd6871d93ca32ba01c"><param name="Name" value="ExecuteMultipleBackupJobs(List&lt; int &gt; selectedIndices)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#a1c69ae2a033d1082486d05d023fd27c3"><param name="Name" value="FileSize"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_control_z_1_1_models.html#ab4671202791876cb862b8c31f1bf486fabbd47109890259c0127154db1af26c75"><param name="Name" value="Full"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_full_backup_strategy.html#a790af1b9c745a958629b7296e265b434"><param name="Name" value="FullBackupStrategy(ResourceManager resourceManager, BackupObserver observer)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_configurations_1_1_configuration_manager.html#a34154f8bff96cf030df95e6603b01da9"><param name="Name" value="Instance"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a35cc2dbada8597e6f2054f3a1341f1f0"><param name="Name" value="IsBackupJobExisting(out int countBackupJob)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a1c5ed5881c2dbe26948211b44b861658"><param name="Name" value="IsBackupJobNameValid(string name)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#ae8493c884adfa560a55c979360dd25f2"><param name="Name" value="IsBackupTypeValid(string type)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a1ee110618f2b10c291ce63d73af500ee"><param name="Name" value="IsEnoughtBackupJobsExisting(out int countBackupJob, int minJob)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#afc1eeb4903b4084b0bb4f293b937c5d7"><param name="Name" value="IsMaxBackupJobsReached()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a3ae0aae9209242edf2a3ae86da67591c"><param name="Name" value="IsSourceDirectoryExisting(string sourceDirectory)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#aecf252fea9091a4b92a63e9b942d6a5b"><param name="Name" value="IsTargetDirectoryExisting(string targetDirectory)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a17385861cd7bf6fcb7eaeb216a5556d4"><param name="Name" value="ListBackupJobs()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_repositories_1_1_backup_repository.html#a30177968216edeb373188c8e7570db89"><param name="Name" value="LoadBackupJobs()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_repositories_1_1_backup_repository.html#a7f9fe554d55773b467a752e1d1d62c2e"><param name="Name" value="LoadBackupStates()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_services_1_1_logger_service.html#a90e558d7ed55f00ea174aaa4197b32d8"><param name="Name" value="Log(object logEntry)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_services_1_1_logger_service.html#a97477e3b5dcc4fa70aa117a9e04bde12"><param name="Name" value="LoggerService()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a235b344bc5533f67b760e95d36404a12"><param name="Name" value="ModifyBackupJob(int id, string newName, string newSourceDirectory, string newTargetDirectory, string newType)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_job.html#aa5a0856772b449fefac5eff508eb90b5"><param name="Name" value="Name"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#adf16a1845c6f98413c78110949d595ae"><param name="Name" value="NumberOfFilesLeftToDo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#a71185bd9946384b75fa7a50a8371cc71"><param name="Name" value="ParseInput(string input, int maxJobs)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#a888abf859e7ec0a3a8313d98ad096f46"><param name="Name" value="Progression"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_repositories_1_1_backup_repository.html#ad0fcdc57e7af1bb40196266a61847660"><param name="Name" value="SaveBackupJobs(List&lt; BackupJob &gt; jobs)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_repositories_1_1_backup_repository.html#a0104bd8851bced1b37906fb53d29245d"><param name="Name" value="SaveBackupState(List&lt; BackupState &gt; states)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html#ac58d6cf0d6793d91f076b691dfa395cd"><param name="Name" value="ShowLogo()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#ad557d3b0f81f23577ae9881b6d677aec"><param name="Name" value="SizeOfFilesLeftToDo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_job.html#af87ba6b35c86890c5835c99d19893eed"><param name="Name" value="SourceDirectory"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#aedcf301a6f10a5b37cdfa71e054c71f5"><param name="Name" value="SourcePath"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#ab67b6a7b628f826ea69f30bcc7480b4a"><param name="Name" value="State"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_job.html#aa9f47fad925f408a54ada91d0bdec7bd"><param name="Name" value="TargetDirectory"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#a2236c29b1d39aaaf5fb02deaf90f4329"><param name="Name" value="TargetPath"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#a3b1c540a6798dffdc9f4a4ade7768545"><param name="Name" value="Timestamp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#a3b1c540a6798dffdc9f4a4ade7768545"><param name="Name" value="ControlZ::Models::BackupLogEntry"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#a0ea6b66f36d04ee0ef72622bf6faf613"><param name="Name" value="Timestamp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#a0ea6b66f36d04ee0ef72622bf6faf613"><param name="Name" value="ControlZ::Models::BackupState"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#aef1b6ad96c9629389d9bfd843e1db3ed"><param name="Name" value="TotalFilesSized"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_state.html#a341ea67b844edb5c69f5915199b01e6c"><param name="Name" value="TotalFilesToCopy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_log_entry.html#a397db902a5a48472f4b1c101ba99fa44"><param name="Name" value="TransferTimeMs"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_models_1_1_backup_job.html#aecff15cb6ca01d1e9c780398b3e6f934"><param name="Name" value="Type"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_observers_1_1_backup_observer.html#a8a8b2e5bb5369af4285feacd55f9c5de"><param name="Name" value="Update(BackupJob job, object logEntry)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_control_z_1_1_observers_1_1_i_backup_observer.html#a12e53be18ec643c91fbcdbdbaaa1d78f"><param name="Name" value="Update(BackupJob job, object message)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_repositories_1_1_backup_repository.html#a34683460a3bbc0e13266e6ed72c4cbd3"><param name="Name" value="UpdateBackupState(BackupState updatedState, int updatedIndexState)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_strategies_1_1_full_backup_strategy.html#a0f12b7c901c9eb0828409966333f68d8"><param name="Name" value="UpdateProgressBar(double percentage, int cursorTop)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html#a9c68ad1e345f39e091f740a793a89038"><param name="Name" value="WaitForValidInput(out string userInput, string promptkey, ValidationDelegate validationDelegate)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_views_1_1_console_menu.html#a9c16c43723a78ff20c9709b83ba61703"><param name="Name" value="WaitForValidModification(out string userInput, string promptkey, ValidationDelegate validationDelegate, string actualData)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_control_z_1_1_view_models_1_1_backup_view_model.html#ae2167062d2f7ddd8320d91e6d5dcba7a"><param name="Name" value="string"></OBJECT>
+</UL>
+</BODY>
+</HTML>
